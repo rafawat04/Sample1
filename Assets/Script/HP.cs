@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EnemyHP : MonoBehaviour {
+public class HP : MonoBehaviour {
 
     public int hitPoint = 100;  //HP
 	
