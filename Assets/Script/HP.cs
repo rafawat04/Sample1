@@ -22,6 +22,5 @@ public class HP : MonoBehaviour {
     {
         //受け取ったダメージ分HPを減らす
         hitPoint -= damage;
-        Debug.Log(hitPoint);
     }
 }
